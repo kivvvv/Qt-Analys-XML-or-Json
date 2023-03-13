@@ -1,0 +1,15 @@
+{
+    "postsNum" : 2,
+    "posts" : [
+        {
+            "postID" : 10086,
+            "postTitle" : "hello",
+            "postContent" : "你好啊"
+        },
+        {
+            "postID" : 10010,
+            "postTitle" : "hi",
+            "postContent" : "大家好"
+        }
+    ]
+}
